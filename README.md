@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Viktor Kövesdi @vkoevesdi!
 -    I'm 32 years old and my spark for coding and developing recently ignited!
--    At the moment I am a trainee for software developing at GFN GmbH.
+-    At the moment I am a trainee for software developing at GFN GmbH in Munich, where I was born and raised.
 - 👀 My hobbies are football, playing games with friend and japanese culture.
 - 🌱 I’m currently learning Java, Python, HTML and SQL.
 - 📫 You can reach me via e-mail: v.koevesdi@gmx.de
