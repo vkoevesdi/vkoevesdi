@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Viktor Kövesdi @vkoevesdi!
--    I'm 32 years old and my spark for coding and developing recently ignited!
+-    I'm 33 years old and my spark for coding and developing recently ignited!
 -    At the moment I am a trainee for software developing at GFN GmbH in Munich, where I was born and raised.
 -    My hobbies are football, playing all sorts of games with my friends and learning about other cultures especially asian ones!
 -    I’m currently learning Java, Python, HTML and SQL.
